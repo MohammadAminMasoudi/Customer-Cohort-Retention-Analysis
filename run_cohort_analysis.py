@@ -17,7 +17,7 @@ def main():
     parser.add_argument(
         "--input-path",
         type=str,
-        default="data/data_analyst_task.csv",
+        default="data/data.csv",
         help="Path to the input CSV file.",
     )
     parser.add_argument(
